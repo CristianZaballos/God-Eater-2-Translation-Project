@@ -15,21 +15,21 @@ msgstr ""
 
 # 2
 msgid "2"
-"名前 : ｱ <ｲ>"
+"Name : A <b>"
 msgstr ""
-"名前 : ｱ <ｲ>"
+"Name : A <b>"
 
 # 3
 msgid "3"
-"総プレイ時間 : ｱ\n"
-"ストーリー進行 : ｲ ｳ\n"
-"所持金 : ｴfc\n"
-"階級 : ｵ"
+"Playtime : A\n"
+"Progression : ｲ ｳ\n"
+"Current : ｴfc\n"
+"Rank : ｵ"
 msgstr ""
-"総プレイ時間 : ｱ\n"
-"ストーリー進行 : ｲ ｳ\n"
-"所持金 : ｴfc\n"
-"階級 : ｵ"
+"Playtime : ｱ\n"
+"Progression : ｲ ｳ\n"
+"Current : ｴfc\n"
+"Rank : ｵ"
 
 # 4
 msgid "4"
@@ -45,9 +45,9 @@ msgstr ""
 
 # 6
 msgid "6"
-"GOD EATER 2 ゲームデータ"
+"GOD EATER 2 game data"
 msgstr ""
-"GOD EATER 2 ゲームデータ"
+"GOD EATER 2 game data"
 
 # 7
 msgid "7"
@@ -59,9 +59,9 @@ msgstr ""
 
 # 8
 msgid "8"
-"GOD EATER 2 ゲームデータ"
+"GOD EATER 2 game data"
 msgstr ""
-"GOD EATER 2 ゲームデータ"
+"GOD EATER 2 game data"
 
 # 9
 msgid "9"
